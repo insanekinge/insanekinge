@@ -11,7 +11,7 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
 
 Here is some links.
 
-<p align="left">
+<p align="left" style="width: 100%; height: auto; display: flex; flex-direction: row; align-items: center; justify-content: space-between;" >
   <a href="https://www.youtube.com/@slavakinge124"  title="Subscribe to my YouTube channel" target="_blank" rel="noopener noreferrer">
    <img src="https://cdn-icons-png.flaticon.com/512/3128/3128307.png" style ="width: 50px; height: 50px;">
   </a>
