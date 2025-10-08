@@ -13,10 +13,10 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
 
 <p align="left" style="width: 100%; height: auto; display: flex; flex-direction: row; align-items: center; justify-content: space-between;" >
   <a href="https://www.youtube.com/@slavakinge124"  title="Subscribe to my YouTube channel" target="_blank" rel="noopener noreferrer">
-   <img src="https://cdn-icons-png.flaticon.com/512/3128/3128307.png" style ="width: 50px; height: 50px;">
+   <img src="https://cdn-icons-png.flaticon.com/512/3128/3128307.png" style ="width: 70px; height: 70px;">
   </a>
   <a href="https://www.instagram.com/mitcsua"  title="Subscribe to my Instagram" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.freepik.com/free-psd/instagram-application-logo_23-2151544090.jpg" style ="width: 50px; height: 50px;">
+    <img src="https://img.freepik.com/free-psd/instagram-application-logo_23-2151544090.jpg" style ="width: 70px; height: 70px;">
   </a>
   <a href="https://tlgg.ru/@kingeslav" title="Send me message" target="_blank" rel="noopener noreferrer">
      <img src="https://img.freepik.com/premium-photo/square-telegram-logo-isolated-white-background_469489-1055.jpg" style ="width: 50px; height: 50px;">
