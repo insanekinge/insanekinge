@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/insanekinge">
-    <img src="https://cdn.sologo.ai/temp24h/logo/f7f7d551-a590-4519-b65e-73612af0c592.jpeg" style="width: 200px; height: 100px; align: center;"alt="Vlad Kinge" /></a>
+    <img src="https://cdn.sologo.ai/temp24h/logo/f7f7d551-a590-4519-b65e-73612af0c592.jpeg" style="width: 200px; height: 150px; align: center;"alt="Vlad Kinge" /></a>
 </p>
 **`Digital lover(Web Developer/Creator)`**
 
