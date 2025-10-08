@@ -45,4 +45,4 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
 
 ### 📊 Stats
 
-![Insanekinge's GitHub stats](https://github-readme-stats.vercel.app/api?username=insanekinge&show_icons=true&theme=radicial)
+![Insanekinge's GitHub stats](https://github-readme-stats.vercel.app/api?username=insanekinge&show_icons=true&theme=swift)
