@@ -22,7 +22,7 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
      <img src="https://img.freepik.com/premium-photo/square-telegram-logo-isolated-white-background_469489-1055.jpg" style ="width: 50px; height: 50px;">
   </a>
   <a href="https://github.com/insanekinge" title="Subscribe to my GitHub" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.freepik.com/premium-vector/cat-flat-icon-white-vector-element-black-background_822686-1224.jpg" style ="width: 50px; height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style ="width: 50px; height: 50px;">
   </a>
 </p>
 
