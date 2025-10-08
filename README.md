@@ -53,4 +53,4 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
  <summary><h3>👨‍💻 Vlad's Coding Journey</h3></summary>
   I started out as a frontend developer in Moscow from 2021 to 2022, cutting my teeth on layouts and markup. Then I transitioned into backend development, diving deep into CMS like MODX and Bitrix. By 2023, I went full freelance, building complete websites—from a jewelry e-commerce shop called Paradox to a consulting project Swoi-Development, a booking platform Synergy-Travel, automotive service sites, and more.
 
-  Now, I’m pushing toward opportunities with big tech companies across Russia and Europe. Ready for bigger challenges and new offers. The journey’s just getting started.
+  Now, I’m pushing toward opportunities with big tech companies across Russia and Europe. Ready for bigger challenges and new offers.
