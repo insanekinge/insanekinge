@@ -1,4 +1,7 @@
-## Vlad Kinge 🐼
+<p align="center">
+  <a href="https://github.com/insanekinge">
+    <img src="https://cdn.sologo.ai/temp24h/logo/f7f7d551-a590-4519-b65e-73612af0c592.jpeg" alt="Vlad Kinge" /></a>
+</p>
 **`Digital lover(Web Developer/Creator)`**
 
 I'm a Moscow-based web dev grinding through building and maintaining sites and apps. Got a big dream to travel and collab with companies worldwide. My tech stack is solid AF: React, JS, Git, Gulp, PHP, HTML/CSS, MODX, Bitrix, Node, Figma, and some AI tools in the mix.
