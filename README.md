@@ -40,3 +40,9 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
 <img align="left" alt="GitHub" width="80px" style="padding:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="80px" style="padding:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+#
+
+### 📊 Stats
+
+![Insanekinge's GitHub stats](https://github-readme-stats.vercel.app/api?username=insanekinge&show_icons=true&theme=gruvbox)
