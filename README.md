@@ -46,6 +46,7 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
 ### 📊 Stats
 
 ![Insanekinge's GitHub stats](https://github-readme-stats.vercel.app/api?username=insanekinge&show_icons=true&theme=chartreuse-dark)
+![Your Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=your-repo-name&theme=chartreuse-dark)
 
 #
 
