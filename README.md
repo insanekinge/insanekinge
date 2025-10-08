@@ -41,7 +41,7 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
 <img align="left" alt="Bash" width="80px" style="padding:40px; margin-bottom: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+
 
 ### 📊 Stats
 
