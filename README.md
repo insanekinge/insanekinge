@@ -55,10 +55,10 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
 
 ### 📊 Stats
 
-![Insanekinge's GitHub stats](https://github-readme-stats.vercel.app/api?username=insanekinge&show_icons=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insanekinge&layout=compact&theme=nightowl)
-![My Project Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=synergytravel&theme=nightowl)
-![My Project Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=Swoi-Project&theme=nightowl)
+![Insanekinge's GitHub stats](https://github-readme-stats.vercel.app/api?username=insanekinge&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insanekinge&layout=compact&theme=radical)
+![My Project Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=synergytravel&theme=radical)
+![My Project Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=Swoi-Project&theme=radical)
 
 #
 
