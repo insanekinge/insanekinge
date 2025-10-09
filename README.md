@@ -14,7 +14,7 @@ I'm a Moscow-based web dev grinding through building and maintaining sites and a
 I've rocked projects with creative and consulting agencies, e-commerce hustles, and custom landing pages. Been in the game for 4 years now.
 Big fan of precise briefs, creative freedom, and consistent grind. Always leveling up both personally and as a coder.
 
-## Here is some links.
+## Here is some links 💻
 
 <p align="center" style="width: 100%; height: auto;>
 
