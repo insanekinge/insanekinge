@@ -1,7 +1,12 @@
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  
   <a href="https://github.com/insanekinge">
-    <img src="https://cdn.sologo.ai/temp24h/logo/f7f7d551-a590-4519-b65e-73612af0c592.jpeg" style="width: 200px; height: 150px; align: center;"alt="Vlad Kinge" /></a>
+    <img src="https://cdn.sologo.ai/temp24h/logo/f7f7d551-a590-4519-b65e-73612af0c592.jpeg" alt="Vlad Kinge" style="width: 200px; height: 150px; margin-right: 30px;" />
+  </a>
+  
+  <img src="https://media1.tenor.com/m/kHub-EsMW_sAAAAd/pibble-wash.gif" alt="Pibble washing belly" style="width: 200px; height: 150px;" />
 </p>
+
 
 **`Digital lover(Web Developer/Creator)`**
 
@@ -16,7 +21,7 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
   <a href="https://www.youtube.com/@slavakinge124"  title="Subscribe to my YouTube channel" target="_blank" rel="noopener noreferrer">
    <img src="https://cdn-icons-png.flaticon.com/512/3128/3128307.png" style ="width: 55px; height: 55px;">
   </a>
-  
+
   <a href="https://www.instagram.com/mitcsua"  title="Subscribe to my Instagram" target="_blank" rel="noopener noreferrer">
     <img src="https://img.freepik.com/free-psd/instagram-application-logo_23-2151544090.jpg" style ="width: 55px; height: 55px;">
   </a>
