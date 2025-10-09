@@ -12,18 +12,23 @@ Big fan of precise briefs, creative freedom, and consistent grind. Always leveli
 ## Here is some links.
 
 <p align="left" style="width: 100%; height: auto;>
+
   <a href="https://www.youtube.com/@slavakinge124"  title="Subscribe to my YouTube channel" target="_blank" rel="noopener noreferrer">
    <img src="https://cdn-icons-png.flaticon.com/512/3128/3128307.png" style ="width: 55px; height: 55px;">
   </a>
+  
   <a href="https://www.instagram.com/mitcsua"  title="Subscribe to my Instagram" target="_blank" rel="noopener noreferrer">
     <img src="https://img.freepik.com/free-psd/instagram-application-logo_23-2151544090.jpg" style ="width: 55px; height: 55px;">
   </a>
+
   <a href="https://tlgg.ru/@kingeslav" title="Send me message" target="_blank" rel="noopener noreferrer">
      <img src="https://img.freepik.com/premium-photo/square-telegram-logo-isolated-white-background_469489-1055.jpg" style ="width: 50px; height: 50px;">
   </a>
+
   <a href="https://github.com/insanekinge" title="Subscribe to my GitHub" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style ="width: 50px; height: 50px;">
   </a>
+
 </p>
 
 
