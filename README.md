@@ -1,4 +1,4 @@
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
+<p align="center" style="display: flex; width: 100%; justify-content: space-between; align-items: center;">
   
   <a href="https://github.com/insanekinge">
     <img src="https://cdn.sologo.ai/temp24h/logo/f7f7d551-a590-4519-b65e-73612af0c592.jpeg" alt="Vlad Kinge" style="width: 200px; height: 150px; margin-right: 30px;" />
