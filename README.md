@@ -1,29 +1,32 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/kHub-EsMW_sAAAAd/pibble-wash.gif" width="220"/>
+  <img src="https://media1.tenor.com/m/kHub-EsMW_sAAAAd/pibble-wash.gif" width="200"/>
 </p>
 
-<h1 align="center">Hey, I'm Slava 👋</h1>
-<h3 align="center">Frontend / Fullstack Developer • 4+ years • Building digital experiences</h3>
+<h1 align="center">Slava Kinge</h1>
+<p align="center">
+  Web Developer · React · Node · PHP  
+</p>
 
 <p align="center">
   <a href="https://github.com/insanekinge">
-    <img src="https://komarev.com/ghpvc/?username=insanekinge&label=Profile%20views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=insanekinge&color=grey" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 💻 Web Developer from Moscow  
-- ⚡ 4+ years of real-world experience  
-- 🌍 Dream: work & collaborate worldwide  
-- 🧠 Focus: clean code, performance, scalable solutions  
-- 🎯 Always improving & shipping projects  
+Developer with 4+ years of experience building web products — from landing pages to full-scale platforms.
+
+Focused on clean architecture, performance, and practical solutions.  
+Currently working with agencies, businesses, and freelance clients.
+
+Open to international collaboration.
 
 ---
 
-## 🧰 Tech Stack
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,html,css,git,github,bash,figma" />
@@ -31,76 +34,47 @@
 
 ---
 
-## 🔥 What I Do
-
-- 🚀 Build modern web apps (React / Node)
-- 🛒 E-commerce & business platforms
-- ⚙️ CMS development (MODX, Bitrix)
-- 🎨 Pixel-perfect landing pages
-- 🧠 UX/UI thinking + performance optimization
-
----
-
-## 🌐 Connect With Me
+## Selected Work
 
 <p align="center">
-  <a href="https://www.youtube.com/@slavakinge124">
-    <img src="https://cdn-icons-png.flaticon.com/512/3128/3128307.png" width="50"/>
-  </a>
-  <a href="https://www.instagram.com/mitcsua">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50"/>
-  </a>
-  <a href="https://tlgg.ru/@kingeslav">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50"/>
-  </a>
-  <a href="https://github.com/insanekinge">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=chacy-app&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=Swoi-Project&theme=github_dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insanekinge&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insanekinge&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=insanekinge&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insanekinge&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Experience
+
+Frontend development → Backend & CMS → Full freelance
+
+Projects include:
+- E-commerce platforms
+- Booking systems
+- Business websites
+- Custom CMS solutions (MODX, Bitrix)
+
+---
+
+## Contact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=chacy-app&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=Swoi-Project&theme=tokyonight" />
+  <a href="https://github.com/insanekinge">GitHub</a> ·
+  <a href="https://tlgg.ru/@kingeslav">Telegram</a> ·
+  <a href="https://www.instagram.com/mitcsua">Instagram</a> ·
+  <a href="https://www.youtube.com/@slavakinge124">YouTube</a>
 </p>
 
 ---
 
-## 🧠 Coding Journey
-
-<details>
-  <summary>Click to expand</summary>
-
-Started as a frontend dev (2021–2022), mastering layouts & UI.  
-Then moved into backend & CMS (MODX, Bitrix).  
-
-By 2023 — full freelance:
-- 💎 Jewelry e-commerce (Paradox)
-- 🌐 Consulting platform (Swoi Development)
-- ✈️ Booking system (Synergy Travel)
-- 🚗 Automotive services & more  
-
-Now aiming for **international projects & big tech opportunities**.
-
-</details>
-
----
-
-## ⚡ Philosophy
-
-> Build. Improve. Repeat.  
-> No excuses — only progress.
-
----
+<p align="center">
+  <sub>Focused on building real products, not just code.</sub>
+</p>
