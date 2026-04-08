@@ -36,19 +36,13 @@ Open to international collaboration.
 
 ## Selected Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=chacy-app&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=insanekinge&repo=Swoi-Project&theme=github_dark" />
-</p>
+
 
 ---
 
 ## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insanekinge&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insanekinge&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+
 
 ---
 
