@@ -17,7 +17,7 @@
 
 ## About
 
-Developer with 4+ years of experience building web products — from landing pages to full-scale platforms.
+Developer with 5+ years of experience building web products — from landing pages to full-scale platforms.
 
 Focused on clean architecture, performance, and practical solutions.  
 Currently working with agencies, businesses, and freelance clients.
